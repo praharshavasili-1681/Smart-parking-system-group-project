@@ -1,4 +1,4 @@
-Smart Prking System
+Smart Parking System
 Group memeber names:
 1)V.Praharsha
 2)L.Iswarya
